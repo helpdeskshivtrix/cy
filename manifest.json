@@ -1,0 +1,9 @@
+{
+ "name": "CyberStudy Lab",
+ "short_name": "CyberStudy",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#05070f",
+ "theme_color": "#05070f"
+}
